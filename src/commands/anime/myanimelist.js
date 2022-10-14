@@ -37,7 +37,6 @@ module.exports = class MyAnimeList extends Command {
         .setColor(Constants.ERROR_COLOR)
         .setTitle(t('commands:myanimelist.animeNotFound'))
     }
-
     channel.send(embed).then(() => channel.stopTyping())
   }
 }
