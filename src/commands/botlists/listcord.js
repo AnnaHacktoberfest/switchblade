@@ -9,7 +9,6 @@ module.exports = class Daily extends Command {
   constructor (client) {
     super(client)
     this.name = 'listcord'
-
     this.requirements = new CommandRequirements(this, {databaseOnly: true})
   }
 
