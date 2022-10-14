@@ -22,7 +22,7 @@
 **Switchblade** is a free and open source solution to all of your server managing problems, built from scratch with code organization and quality in mind. Want some music for your server? We've got you covered. Maybe you want a good anti-spam solution? We've got you covered. How about economy? Well, you probably got it by now. [Like the idea? Click here to invite Switchblade to your server](http://invite.switchblade.xyz/).
 
 ## Contributing
-You want to help? Great! There are many ways to do it:
+Do you want to help? Great! There are many ways to do it:
 
 **Contribute with code:**
 Setup a development environment, make some changes, and [open a pull request](https://github.com/SwitchbladeBot/switchblade/compare).
